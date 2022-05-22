@@ -9,7 +9,7 @@ https://t.me/MiuiWidgets/182
 I'll update module so keep joining here
 
 ⚠️ Uninstall any MODULE related to launcher, app vault, weather and Themes first
-(or if you want keep using other modded launcher use v5.0 (https://t.me/MiuiWidgets/193) only, but anyways launcher inside my module is modded.)
+(or if you want keep using other modded launcher use v5.x only (check releases), but anyways launcher inside my module is modded.)
 
 ⚠️ UNINSTALL UPDATES FOR THOSE 4 APPS 
 
