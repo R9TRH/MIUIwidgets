@@ -21,6 +21,8 @@ https://t.me/MiuiWidgets/182
 ⚠️NOTE: DON'T UPDATE Launcher, WEATHER, APP VAULT  AND THEMES APP MANUALLY. I'LL POST UPDATES AS A MODULE
 (MIUI China Users can only update weather app)
 
+💬Github support: https://github.com/R9TRH/MIUIwidgets/discussions/2 (click on it)
+
 ♨️For other cool stuffs and get help quickly, you can join our channel and group in Telegram 
 https://t.me/MIUIwidgets
 Https://t.me/MIUIwidgets_chat
