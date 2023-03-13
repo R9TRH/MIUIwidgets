@@ -1,5 +1,4 @@
-<meta name="google-site-verification" content="fy0RmKdiFAvcpowolqINOqFLIvoxLOFX7AOQEN1JQZI" />
-# MIUIwidgets
+#Short Review
 Port MIUI 14 widgets to any MIUI 12.5+ A11+
 
 # Roootless Method / Supports A10
