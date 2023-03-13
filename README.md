@@ -1,5 +1,5 @@
 # MIUIwidgets
-Port MIUI 13 widgets for MIUI 12+ A11+
+Port MIUI 14 widgets to any MIUI 12.5+ A11+
 
 # Roootless Method / Supports A10
 For Android 10 check this post on telegram:
