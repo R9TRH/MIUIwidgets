@@ -3,9 +3,6 @@ Port MIUI 14 widgets to any MIUI 12.5+ A11+
 
 Project is made by TRH, From Iran
 
-# Roootless Method / Supports A10
-For Android 10 check this post on telegram:
-https://t.me/MiuiWidgets/182 
 
 # IMPORTANT NOTES
 
