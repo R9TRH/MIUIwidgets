@@ -14,7 +14,7 @@ DISCONTINUED.
 
 ⚠️ Uninstall any MODULE related to launcher, app vault, weather and Themes first
 
-⚠️ If some widgets are in Chinese, change phone language to English US.
+⚠️ If all widgets are in Chinese, change phone language to English US.
 
 
 ♨️For other cool stuff, you can join our channel in Telegram:
